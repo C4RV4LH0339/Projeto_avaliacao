@@ -317,6 +317,7 @@ Neste momento:
 Ou seja, essa interface funciona como um centro de controle ao vivo da corrida, mostrando posição, estratégia de boxes, ritmo e estado de cada carro em tempo real.
 
 --Clique em ALL / HYPERCAR / LMP2 / LMGT3--
+
 --ALL--
 
 Mostra todos os carros da tabela.
