@@ -13,7 +13,7 @@ https://www.figma.com/make/qom6fkCIjSOGZOA8zq1sWr/Le-Mans-2026-Schedule?t=QFZvFb
 | 383 tours              | Voltas completadas pelo líder   |
  
  
- Indicadores rápidos
+--Indicadores rápidos--
 
 Logo abaixo:
 
@@ -46,7 +46,7 @@ Au Pit Lane
 3
 
 
-Carros que estão atualmente nos boxes.
+--Carros que estão atualmente nos boxes--
 
  Filtros de categoria
 
@@ -76,7 +76,7 @@ LMGT3
 Mostra apenas os GT3.
 
 
- Ordenação
+--Ordenação--
 
 Botões à direita:
 
@@ -93,7 +93,7 @@ Arrêts Pit
 Ordena pelo número de paradas.
 
 
- Tabela principal
+--Tabela principal--
 
 Cada linha representa um carro.
 
@@ -184,7 +184,7 @@ Exemplos:
 2 voltas atrás.
 
 
- Arrêts
+--Arrêts--
 
 Número de pit stops.
 
@@ -197,7 +197,7 @@ Exemplo:
 Quanto mais tempo nos boxes, maior o risco de perder posições.
 
 
- Dernier Tour
+--Dernier Tour--
 
 Última volta realizada.
 
@@ -210,7 +210,7 @@ Exemplo:
 Quanto menor o tempo, mais rápida foi a volta.
 
 
- État (Estado)
+--État (Estado)--
 
 Mostra a situação atual do carro.
 
@@ -242,7 +242,7 @@ Exemplo:
 Isotta Fraschini #11
 
 
- Como a classificação é calculada
+--Como a classificação é calculada--
 
 O sistema compara:
 
@@ -274,7 +274,7 @@ Ferrari = +0:42.1
 Então a Ferrari está 42 segundos atrás.
 
 
- Atualização em tempo real
+--Atualização em tempo real--
 
 A cada passagem pela linha de chegada o sistema:
 
