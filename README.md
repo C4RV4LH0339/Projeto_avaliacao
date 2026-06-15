@@ -7,7 +7,7 @@ https://www.figma.com/make/qom6fkCIjSOGZOA8zq1sWr/Le-Mans-2026-Schedule?t=QFZvFb
 | Campo                  | Significado                     |
 | ---------------------- | ------------------------------- |
 | 24 Heures du Mans      | Nome do evento                  |
-| 14–15 Juin 2026        | Data da corrida                 |
+| 14–15 Jun 2026         | Data da corrida                 |
 | EN DIRECT              | Dados sendo atualizados ao vivo |
 | Leader #7 Toyota Gazoo | Carro líder atual               |
 | 383 tours              | Voltas completadas pelo líder   |
