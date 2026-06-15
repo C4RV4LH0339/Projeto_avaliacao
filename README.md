@@ -315,3 +315,179 @@ Neste momento:
  O melhor LMGT3 é o carro #55 da Iron Dames
 
 Ou seja, essa interface funciona como um centro de controle ao vivo da corrida, mostrando posição, estratégia de boxes, ritmo e estado de cada carro em tempo real.
+
+--Clique em ALL / HYPERCAR / LMP2 / LMGT3--
+--ALL--
+
+Mostra todos os carros da tabela.
+
+Antes:
+
+21 carros
+
+Depois do clique:
+
+Hypercar + LMP2 + LMGT3
+
+
+--HYPERCAR--
+
+Filtra apenas os Hypercars.
+
+Exemplo:
+
+#7 Toyota
+#51 Ferrari
+#8 Toyota
+#6 Porsche
+...
+
+Os LMP2 e LMGT3 desaparecem.
+
+--LMP2--
+
+Mostra apenas:
+
+#31 WRT
+#22 United Autosports
+#37 Cool Racing
+#45 Algarve Pro Racing
+
+
+--LMGT3--
+
+Mostra apenas os GT3:
+
+#55 Iron Dames
+#77 Proton Competition
+#98 Northwest AMR
+...
+
+
+--Clique em Position--
+
+Ordena pela classificação.
+
+Exemplo:
+
+1°
+2°
+3°
+4°
+
+
+--Clique em Tours--
+
+Ordena por número de voltas.
+
+Pode mostrar:
+
+383
+383
+382
+382
+381
+
+Mesmo que não estejam em sequência de posição.
+
+--Clique em Arrêts Pit--
+
+Ordena por número de paradas.
+
+Exemplo:
+
+14 pits
+14 pits
+15 pits
+15 pits
+16 pits
+
+Útil para analisar estratégias.
+
+--Clique numa linha do carro--
+
+Normalmente abriria uma tela de detalhes.
+
+Exemplo:
+
+Clique no:
+
+Toyota #7
+
+Abre:
+
+Informações do carro
+Toyota GR010 Hybrid
+Pilotos
+M. Conway
+K. Kobayashi
+N. López
+Estatísticas
+Voltas: 383
+Pit stops: 14
+Melhor volta: 3:24.xxx
+Última volta: 3:27.412
+Clique no número do carro (#7)
+
+Geralmente abre a ficha técnica.
+
+Exemplo:
+
+Carro #7
+
+Mostra:
+
+fabricante
+motor
+categoria
+peso
+potência
+equipe
+Clique nos pilotos
+
+Exemplo:
+
+K. Kobayashi
+
+Abre:
+
+foto
+nacionalidade
+idade
+histórico em Le Mans
+corridas disputadas
+
+
+--Clique no estado (COURSE / PIT / LENT)--
+
+Pode filtrar ou mostrar motivo.
+
+COURSE
+Na pista
+PIT
+Nos boxes
+
+Poderia mostrar:
+
+Troca de pneus
+Reabastecimento
+Troca de piloto
+LENT
+Velocidade reduzida
+
+Possíveis causas:
+
+problema mecânico
+punição
+pneu furado
+
+
+--Clique no líder (#7 Toyota)--
+
+Normalmente destacaria:
+
+Posição: 1°
+Voltas: 383
+Gap: Líder
+
+e talvez centralizasse a linha na tabela.
